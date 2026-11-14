@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenTrack 工程搭建与验收"
+  short_description: "构建铁路仿真工程并核验站场、信号、运营数据和原生结果"
+  default_prompt: "使用 $opentrack-project-builder 根据任务书搭建 OpenTrack 铁路仿真工程并完成复跑验收。"
